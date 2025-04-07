@@ -129,7 +129,7 @@
 
     .search-btn {
         @apply size-[50px] rounded-full bg-black flex justify-center items-center !important;
-    }
+    } 
 
     /* startupcard */
     .startup-card {
